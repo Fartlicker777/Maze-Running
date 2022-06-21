@@ -272,6 +272,11 @@ public class MazeRunning : MonoBehaviour {
             }
             break;
       }
+      for (int i = 0; i < 25; i++) {
+         if (true) {
+
+         }
+      }
       LogMaze();
       for (int i = 0; i < 25; i++) {
          TempMaze[i] = "";
